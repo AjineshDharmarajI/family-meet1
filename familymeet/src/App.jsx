@@ -1,9 +1,8 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
+
 import "./App.css";
 import { Container, Button,  } from "react-bootstrap";
-import kpr from "../src/assets/images/image1.jpeg";
+
 import musicalstatue from "../src/assets/images/musical statue.jpg";
 import samecolor from "../src/assets/images/ball collecting.webp";
 import { MdKeyboardDoubleArrowDown } from "react-icons/md";
